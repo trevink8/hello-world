@@ -1,4 +1,3 @@
-# hello-world
-demo repository
+# Project Files
+This section will house various projects I've worked on
 
-this is a test description to understand how to use github
